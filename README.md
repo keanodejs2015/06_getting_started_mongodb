@@ -2,7 +2,8 @@
 
 ## Installation
 
-<pre></pre>
+<pre> git clone https://github.com/keanodejs/06_getting_started_mongodb.git </pre>
+
 
 The run:
 
