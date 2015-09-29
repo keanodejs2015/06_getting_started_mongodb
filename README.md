@@ -1,5 +1,7 @@
 # 06 Getting started with Mongodb Native 2.0.0 Driver
 
+[![Build Status](https://travis-ci.org/keanodejs/06_getting_started_mongodb.svg?branch=master)](https://travis-ci.org/keanodejs/06_getting_started_mongodb)
+
 ## Installation
 
 <pre> git clone https://github.com/keanodejs/06_getting_started_mongodb.git </pre>
